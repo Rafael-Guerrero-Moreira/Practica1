@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="hola">Hola</string>
+    <string name="pr_ctica_1">Práctica 1</string>
+    <string name="nombre">Nombre:</string>
+    <string name="enviar">Enviar</string>
+</resources>
